@@ -30,7 +30,7 @@ Welcome to my Falcon 9 First Stage Landing Prediction Capstone Project! This ini
 	- Training and evaluating classification models.
 	- Hyperparameter optimization through grid search.
 
-- **Data-Driven Insights and Reporting:
+- **Data-Driven Insights and Reporting:**
 
 	- Compiling comprehensive reports.
 	- Peer review and collaborative feedback.
