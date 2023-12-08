@@ -3,7 +3,7 @@ IBM Landing Prediction Capstone Project
 
 ## Project Overview
 
-Welcome to my Falcon 9 First Stage Landing Prediction Capstone Project! This initiative focuses on predicting Falcon 9 first stage landings, crucial for cost-effective space travel. Throughout this project, I'll gain skills in:
+Welcome to my Falcon 9 First Stage Landing Prediction Capstone Project! This initiative focuses on predicting Falcon 9 first stage landings, crucial for cost-effective space travel.
 
 ## Skills Gained
 
