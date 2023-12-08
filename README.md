@@ -11,7 +11,6 @@ Welcome to my Falcon 9 First Stage Landing Prediction Capstone Project! This ini
 
 	- Python coding for data manipulation.
 	- Converting JSON data to Pandas data frames.
-	- Defining real-world business problems.
 
 - **Data Collection and Exploration:**
 
