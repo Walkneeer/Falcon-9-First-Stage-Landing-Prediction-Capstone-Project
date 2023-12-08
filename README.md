@@ -32,4 +32,3 @@ Welcome to my Falcon 9 First Stage Landing Prediction Capstone Project! This ini
 - **Data-Driven Insights and Reporting:**
 
 	- Compiling comprehensive reports.
-	- Peer review and collaborative feedback.
